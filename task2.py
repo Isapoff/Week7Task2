@@ -34,7 +34,7 @@
 
 # class Mobilephone:
 
-#     __imei = 'nokia'
+#     __imei = ''
 #     __charge = 100
 
 #     if __charge == 0:
