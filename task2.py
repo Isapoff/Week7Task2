@@ -73,7 +73,35 @@
 
 # task3
 
+# class Pyramid:
+#     __a = 0         # стороны
+#     __b = 0         
+#     __c = 0          
+#     __d = 0          
+#     __e = 0         # высота 
+#     __f = 0         # высота ребра 
 
+#     def get_atribute(self, a, b, c, d, e, f):
+#         self.__a = a
+#         self.__b = b
+#         self.__c = c
+#         self.__d = d
+#         self.__e = e
+#         self.__f = f
+
+#     def pyramid_area(self):
+#         area = self.__a * 2 
+#         print(f'Площадь пирамиды {area}')
+
+#     def pyramid(self):
+#         heigh = self.__e // 3
+#         volume = heigh * (self.__a * 2)
+#         print(f'Объём пирамиды {volume}')
+
+# pyr = Pyramid()
+# pyr.get_atribute(10, 10, 10, 10, 25, 15)
+# pyr.pyramid_area()
+# pyr.pyramid()
 
 
 
